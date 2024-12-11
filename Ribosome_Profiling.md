@@ -40,3 +40,14 @@ Facilitate the development of drugs targeting ribosomes or translation factors. 
 6. Integration with Other Technologies
 
 When combined with CRISPR-Cas9 and proteomics, ribosome profiling provides deeper insights into gene function and regulatory networks. This integration allows for precise modulation of translational machinery, offering potential in synthetic biology and personalized medicine.
+
+## References
+
+Brar, G. A., & Weissman, J. S. (2015). Ribosome profiling reveals the what, when, where, and how of protein synthesis. Nature Reviews Molecular Cell Biology, 16(11), 651-664.
+
+Ingolia, N. T., et al. (2009). Genome-wide analysis in vivo of translation with nucleotide resolution using ribosome profiling. Science, 324(5924), 218-223.
+
+Su, D., Ding, C., Qiu, J., Yang, G., Wang, R., Liu, Y., ... & Zhang, T. (2024). Ribosome profiling: a powerful tool in oncological research. Biomarker Research, 12(1), 11.
+
+
+
